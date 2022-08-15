@@ -1,7 +1,7 @@
 # Tekton-CI-CD
-<h1> Getting started with Tekton <h1>
+<h1> Getting started with Tekton </h1>
 
-<h2> Setting up Tekton <h2>
+<h2> Setting up Tekton </h2>
 <p> This is pre-requisite setup to interact with things like github.com and docker image registries </p>
 
 1. Generating ssh key:
